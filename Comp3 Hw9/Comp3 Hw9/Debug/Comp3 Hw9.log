@@ -1,0 +1,3 @@
+﻿  hw9.cpp
+C:\Users\askas\source\repos\Comp3 Hw9\Comp3 Hw9\hw9.cpp(111,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Comp3 Hw9.vcxproj -> C:\Users\askas\source\repos\Comp3 Hw9\Debug\Comp3 Hw9.exe
